@@ -13,3 +13,5 @@ Ceci est mon premier article avec Hugo.
 ## Un sous-titre
 
 Du contenu intéressant ici...
+
+Très intéressant, en effet !
