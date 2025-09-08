@@ -15,3 +15,5 @@ Ceci est mon premier article avec Hugo.
 Du contenu intéressant ici...
 
 Très intéressant, en effet !
+
+Une modif faite en ligne !
